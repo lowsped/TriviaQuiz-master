@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Soal UKG</string>
+    <string name="text_view_welcome">Welcome To</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_start_trivia">Kerjakan Soal</string>
+    <string name="progress_bar_loading">Loading Soal</string>
+    <string name="progress_bar_ready">Soal Sudah Siap Untuk DiKerjakan</string>
+    <string name="error_no_internet"> Check your internet connection.y</string>
+    <string name="error_no_questions"> Currently no questions are available, please check after some time.</string>
+
+    <string name="text_view_question_no">Soal %d</string>
+    <string name="text_view_time_left">Time Left: %d seconds</string>
+    <string name="text_view_loading_image">Loading Image...</string>
+    <string name="button_quit">Quit</string>
+    <string name="button_next">Next</string>
+
+    <string name="title_stats">Nilai Kamu Sedang Di Jumlah</string>
+    <string name="text_view_correct_answers">Correct Answers</string>
+    <string name="text_view_correct_percentage">%d%%</string>
+    <string name="text_view_try_again">Try again and see if you can get all the correct answers!</string>
+    <string name="button_try_again">Try Again</string>
+
+    <string name="error_no_option_selected">Please select one option</string>
+    <string name="action_settings">about</string>
+    <string name="more">more aps</string>
+    <string name="kunci">kunci jawaban</string>
+    <string name="facebook">facebook</string>
+    <string name="about">"Thank's To:\n" \n" " Allah S.W.T \n" "My   Family\n" "Google.inc\n" "And\n" "all you have been using my application\n"
+    \n" "Copyright@2017\n" "PEMIKIR VERSI BARU\n"
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-1142409875326374/7639189593</string>
+    <string name="admob_interstitial_id">ca-app-pub-1142409875326374/9436375045</string>
+
+</resources>

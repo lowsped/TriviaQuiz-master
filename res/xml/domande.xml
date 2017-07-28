@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+    <question number="1"
+              testo="leone"
+              immagine="leone.png"
+              suonoanimale="leone.mp3"/>
+    <question number="2"
+              testo="struzzo"
+              immagine="struzzo.png"
+              suonoanimale="struzzo.mp3"/>
+    <question number="3"
+              testo="maiale"
+              immagine="maiale.png"
+              suonoanimale="maiale.mp3"/>
+    <question number="4"
+              testo="asino"
+              immagine="asino.png"
+              suonoanimale="asino.mp3"/>
+</questions>

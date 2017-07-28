@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+        android:id="@+id/widget42"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="#ffffff">
+    <TextView
+            android:id="@+id/widget34"
+            android:layout_width="194px"
+            android:layout_height="52px"
+            android:text="GIUSTO"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#ff66ff00"
+            android:gravity="center"
+            android:layout_x="120dp"
+            android:layout_y="1dp" />
+    <ImageView
+            android:id="@+id/widget35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="22dp"
+            android:layout_y="38dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:src="@drawable/bimbo_contadino"
+            android:tag="leone"
+            />
+    <TextView
+            android:id="@+id/widget38"
+            android:layout_width="151px"
+            android:layout_height="wrap_content"
+            android:text="Sei proprio bravo"
+            android:textColor="#ff000000"
+            android:gravity="center"
+            android:layout_x="149dp"
+            android:layout_y="74dp"
+            />
+    <ImageView
+            android:id="@+id/animale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/maiale"
+            android:layout_x="164dp"
+            android:layout_y="152dp" />
+    <TextView
+            android:id="@+id/nomeanimale"
+            android:layout_width="309px"
+            android:layout_height="56px"
+            android:text="nome dell'animale: "
+            android:textColor="#ff000000"
+            android:layout_x="72dp"
+            android:layout_y="320dp" />
+    <Button
+            android:id="@+id/widget40"
+            android:layout_width="350px"
+            android:layout_height="wrap_content"
+            android:text="Continua"
+            android:onClick="continua"
+            android:layout_x="50dp"
+            android:layout_y="377dp" />
+</AbsoluteLayout>
